@@ -1,0 +1,12 @@
+H:\Visual Basic\Unit 1\Exercise4.6\obj\x86\Debug\Exercise4._5.Form1.resources
+H:\Visual Basic\Unit 1\Exercise4.6\obj\x86\Debug\Exercise4._5.Resources.resources
+H:\Visual Basic\Unit 1\Exercise4.6\obj\x86\Debug\Exercise4.5.vbproj.GenerateResource.Cache
+H:\Visual Basic\Unit 1\Exercise4.6\bin\Debug\Exercise4.5.exe
+H:\Visual Basic\Unit 1\Exercise4.6\bin\Debug\Exercise4.5.pdb
+H:\Visual Basic\Unit 1\Exercise4.6\bin\Debug\Exercise4.5.xml
+H:\Visual Basic\Unit 1\Exercise4.6\obj\x86\Debug\Exercise4.5.exe
+H:\Visual Basic\Unit 1\Exercise4.6\obj\x86\Debug\Exercise4.5.xml
+H:\Visual Basic\Unit 1\Exercise4.6\obj\x86\Debug\Exercise4.5.pdb
+H:\Final Project\Casino\BlackJackShit\obj\x86\Debug\Exercise4.5.exe
+H:\Final Project\Casino\BlackJackShit\obj\x86\Debug\Exercise4.5.xml
+H:\Final Project\Casino\BlackJackShit\obj\x86\Debug\Exercise4.5.pdb
